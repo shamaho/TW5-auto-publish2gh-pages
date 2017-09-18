@@ -1,6 +1,13 @@
-title: HelloThere
-creator: danielo515
+title: TableOfContents
+creator: shamaho
 type: text/vnd.tiddlywiki
 
-THIS IS the demo wiki built automatically by [[travis-ci|http://travis-ci.org/]] following the instructions at
+#The Art of Doubles
+##!Winning Tennis Strategies
+Author: Plat Blaskower
+
+* [ChapterOne] - Creating and nurturing a balanced doubles team
+* [ChapterTwo] - Keep You team's communication lines open
+
+
 the master branch of this github repo: [[https://github.com/danielo515/TW5-auto-publish2gh-pages]]

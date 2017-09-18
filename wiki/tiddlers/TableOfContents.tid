@@ -2,12 +2,12 @@ title: TableOfContents
 creator: shamaho
 type: text/vnd.tiddlywiki
 
-# The Art of Doubles
-## Winning Tennis Strategies
+! The Art of Doubles
+!! Winning Tennis Strategies
 Author: Plat Blaskower
 
-* [ChapterOne] - Creating and nurturing a balanced doubles team
-* [ChapterTwo] - Keep You team's communication lines open
+* [[Chapter One]] - Creating and nurturing a balanced doubles team
+* [[Chapter Two]] - Keep You team's communication lines open
 
 
 the master branch of this github repo: [[https://github.com/danielo515/TW5-auto-publish2gh-pages]]
